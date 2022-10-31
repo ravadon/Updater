@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Updater>
+	<update appID="PacketLoss"
+		<version>2.0.0.0</version>
+		<url>https://raw.githubusercontent.com/ravadon/Updater/main/PacketLossMeter.exe</url>
+		<fileName>PacketLoss.exe</fileName>
+		<md5>3a8aeda7b4b7352fa73190aeeef9ecae</md5>
+		<description>Initial update</description>
+		<launchArgs></launchArgs>
+	</update>
+</Updater>
+	
